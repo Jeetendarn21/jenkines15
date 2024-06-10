@@ -1,4 +1,4 @@
 class a{
-  Public static void main(string args[])
+  public static void main(string args[])
 { system.out.println("vvce");
 }
