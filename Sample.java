@@ -1,5 +1,5 @@
 class a{
-  public static void main(string args[])
-{ system.out.println("vvce");
+  public static void main(String[] args)
+{   System.out.println("vvce");
 }
 }
